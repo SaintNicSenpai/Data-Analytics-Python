@@ -1,5 +1,6 @@
 # Data-Analytics-Python
 ### Python Data Analytics
+#### All projects done in Jupyter Notebook
 For the first project, (The Investigate a Dataset project) I was simplyy being introduced to the world of data analysis in python and how to go about it. Nothing really exciting just learning the approach for data analysis in python using one dataset
 
 <This is is about project 2>
